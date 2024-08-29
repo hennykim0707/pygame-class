@@ -1,7 +1,7 @@
 # game-class
 
 
-##셋팅
+## 셋팅
 
 - Terminal -> New Terminal
 - Command Prompt 열기 (+버튼 옆에)
